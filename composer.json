@@ -1,9 +1,7 @@
 {
     "name": "whiteoctober/tcpdf-bundle",
     "type": "symfony-bundle",
-    "description": "A bundle to easily integrate TCPDF into Symfony2",
-    "keywords": ["pdf", "tcpdf"],
-    "homepage": "https://github.com/whiteoctober/WhiteOctoberTCPDFBundle",
+    "description": "A bundle to easily integrate TCPDF into Symfony2", 
     "authors": [
         {
             "name": "Rich Sage",
@@ -11,8 +9,6 @@
         }
     ],
     "require": {
-        "php": ">=5.3.2",
-        "symfony/framework-bundle": "2.0.*",
         "tcpdf/tcpdf": ">=5.9.162"
     },
     "autoload": {
